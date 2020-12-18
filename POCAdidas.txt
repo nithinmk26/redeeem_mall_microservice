@@ -1,0 +1,38 @@
+Multiple quantity or items..-> Done
+loyalty points 0.0 or greater exception message ->Done
+product if 0 prnt out of stock  ->Done
+
+
+
+Zuul Proxy
+Loggers
+Hystrix
+
+
+
+Docker
+VM DB
+
+
+[
+  {
+    "productId": 1,
+    "quantity": 1
+  },
+{
+    "productId": 8,
+    "quantity": 1
+  },
+{
+    "productId": 10,
+    "quantity": 1
+  },
+{
+    "productId": 11,
+    "quantity": 1
+  },
+{
+    "productId": 12,
+    "quantity": 1
+  }
+]
